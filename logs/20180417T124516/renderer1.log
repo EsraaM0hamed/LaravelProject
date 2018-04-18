@@ -1,0 +1,14 @@
+[2018-04-17 13:32:08.845] [renderer1] [error] Invalid index 0: Error: Invalid index 0
+    at e.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:413:175)
+    at e.onMouseDown (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:402:436)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:163:904
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:163:677
+    at e.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:165:218)
+    at HTMLDivElement.r (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:173:105)
+[2018-04-17 22:20:59.346] [renderer1] [error] Invalid index 3: Error: Invalid index 3
+    at e.open (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:413:175)
+    at e.onMouseDown (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:402:436)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:163:904
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:163:677
+    at e.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:165:218)
+    at HTMLDivElement.r (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:173:105)

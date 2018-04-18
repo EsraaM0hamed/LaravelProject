@@ -1,0 +1,274 @@
+Looking for git in: git
+Using git 2.16.2 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/esraa
+> git status -z -u
+> git show :LaravelTask/app/Http/Controllers/Auth/ResetPasswordController.php
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :LaravelTask/database/migrations/2014_10_12_000000_create_users_table.php
+> git check-ignore -z --stdin
+> git show :LaravelTask/app/Http/Controllers/Auth/ResetPasswordController.php
+> git show :LaravelTask/resources/views/auth/login.blade.php
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse esraa
+fatal: ambiguous argument 'esraa': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :LaravelTask/app/Http/Controllers/Auth/LoginController.php
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :LaravelTask/app/Empolyee.php
+> git show :LaravelTask/app/User.php
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/app/Http/Controllers/HomeController.php
+> git show :LaravelTask/.env
+> git show :LaravelTask/database/migrations/2018_04_16_082448_create_employee_table.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/app/Empolyee.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/app/User.php
+> git show :LaravelTask/app/Http/Controllers/Auth/LoginController.php
+> git show :LaravelTask/app/User.php
+> git show :LaravelTask/resources/views/auth/login.blade.php
+> git show :LaravelTask/app/User.php
+> git show :LaravelTask/app/Empolyee.php
+> git show :LaravelTask/app/User.php
+> git show :LaravelTask/app/Empolyee.php
+> git show :LaravelTask/app/User.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/app/Empolyee.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/resources/views/home.blade.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git check-ignore -z --stdin
+> git show :LaravelTask/routes/api.php
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :LaravelTask/app/Http/Controllers/API.php
+> git show :LaravelTask/routes/api.php
+> git show :LaravelTask/app/Http/Controllers/API.php
+> git show :LaravelTask/routes/api.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/resources/views/home.blade.php
+> git show :LaravelTask/resources/views/layouts/app.blade.php
+> git show :LaravelTask/routes/api.php
+> git show :LaravelTask/app/Http/Controllers/API.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/routes/api.php
+> git show :LaravelTask/app/Http/Controllers/API.php
+> git show :LaravelTask/resources/views/layouts/app.blade.php
+> git show :LaravelTask/app/Http/Controllers/API.php
+> git show :LaravelTask/resources/views/layouts/app.blade.php
+> git show :LaravelTask/routes/api.php
+> git show :LaravelTask/resources/views/layouts/app.blade.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/routes/api.php
+> git show :LaravelTask/resources/views/layouts/app.blade.php
+> git show :LaravelTask/app/Http/Controllers/API.php
+> git show :LaravelTask/resources/views/layouts/app.blade.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/resources/views/layouts/app.blade.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/app/Http/Controllers/API.php
+> git show :LaravelTask/routes/api.php
+> git show :LaravelTask/app/Http/Controllers/API.php
+> git show :LaravelTask/routes/api.php
+> git show :LaravelTask/app/Http/Controllers/API.php
+> git show :LaravelTask/resources/views/layouts/app.blade.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/resources/views/layouts/app.blade.php
+> git show :LaravelTask/app/Http/Controllers/API.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/app/Http/Controllers/API.php
+> git show :LaravelTask/app/Http/Controllers/HomeController.php
+> git show :LaravelTask/resources/views/home.blade.php
+> git show :LaravelTask/resources/views/searchResult.blade.php
+> git check-ignore -z --stdin
+> git show :LaravelTask/routes/web.php
+> git show :LaravelTask/app/Http/Controllers/API.php
+> git show :LaravelTask/routes/web.php
+> git show :LaravelTask/resources/views/searchResult.blade.php
+> git show :LaravelTask/app/Http/Controllers/API.php
+> git show :LaravelTask/resources/views/searchResult.blade.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/app/Http/Controllers/API.php
+> git show :LaravelTask/database/migrations/2018_04_16_082448_create_employee_table.php
+> git check-ignore -z --stdin
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/routes/web.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/routes/web.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git check-ignore -z --stdin
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git check-ignore -z --stdin
+> git show :LaravelTask/resources/views/User3ady.blade.php
+> git check-ignore -z --stdin
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/app/Http/Controllers/API.php
+> git show :LaravelTask/resources/views/layouts/app.blade.php
+> git check-ignore -z --stdin
+> git show :LaravelTask/app/Http/Controllers/Auth/LoginController.php
+> git show :LaravelTask/app/Http/Controllers/Auth/RegisterController.php
+> git show :LaravelTask/app/Http/Controllers/Auth/LoginController.php
+> git show :LaravelTask/resources/views/layouts/app.blade.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/resources/views/home.blade.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/resources/views/layouts/app.blade.php
+> git show :LaravelTask/app/Http/Controllers/Auth/LoginController.php
+> git check-ignore -z --stdin
+> git show :LaravelTask/app/Http/Controllers/Controller.php
+> git show :LaravelTask/app/Http/Controllers/HomeController.php
+> git show :LaravelTask/app/Http/Controllers/Auth/LoginController.php
+> git check-ignore -z --stdin
+> git show :LaravelTask/database/migrations/2014_10_12_000000_create_users_table.php
+> git show :LaravelTask/database/migrations/2014_10_12_100000_create_password_resets_table.php
+> git show :LaravelTask/database/migrations/2018_04_16_082448_create_employee_table.php
+> git show :LaravelTask/database/migrations/2018_04_18_032456_create_roles_table.php
+> git show :LaravelTask/database/migrations/2014_10_12_000000_create_users_table.php
+> git show :LaravelTask/app/Http/Controllers/Auth/LoginController.php
+> git show :LaravelTask/database/migrations/2018_04_18_032456_create_roles_table.php
+> git check-ignore -z --stdin
+> git show :LaravelTask/database/migrations/2018_04_18_035936_create_role_user_table.php
+> git show :LaravelTask/database/migrations/2018_04_18_032456_create_roles_table.php
+> git show :LaravelTask/database/migrations/2018_04_18_035936_create_role_user_table.php
+> git show :LaravelTask/app/Http/Controllers/Auth/LoginController.php
+> git show :LaravelTask/resources/views/User3ady.blade.php
+> git show :LaravelTask/database/migrations/2014_10_12_000000_create_users_table.php
+> git show :LaravelTask/app/User.php
+> git show :LaravelTask/app/Role.php
+> git show :LaravelTask/app/User.php
+> git show :LaravelTask/resources/views/User3ady.blade.php
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :LaravelTask/database/seeds/DatabaseSeeder.php
+> git show :LaravelTask/database/seeds/RoleTableSeeder.php
+> git show :LaravelTask/database/seeds/UserTableSeeder.php
+> git show :LaravelTask/database/seeds/RoleTableSeeder.php
+> git show :LaravelTask/database/seeds/UserTableSeeder.php
+> git show :LaravelTask/database/seeds/RoleTableSeeder.php
+> git show :LaravelTask/database/seeds/UserTableSeeder.php
+> git show :LaravelTask/database/seeds/DatabaseSeeder.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/app/Http/Controllers/Auth/LoginController.php
+> git show :LaravelTask/database/migrations/2018_04_18_032456_create_roles_table.php
+> git show :LaravelTask/database/migrations/2018_04_18_035936_create_role_user_table.php
+> git show :LaravelTask/app/Http/Controllers/Auth/LoginController.php
+> git show :LaravelTask/app/Http/Controllers/Auth/RegisterController.php
+> git show :LaravelTask/app/Http/Controllers/Auth/ResetPasswordController.php
+> git show :LaravelTask/app/Http/Controllers/Auth/LoginController.php
+> git show :LaravelTask/database/migrations/2014_10_12_000000_create_users_table.php
+> git show :LaravelTask/app/User.php
+> git show :LaravelTask/app/Role.php
+> git show :LaravelTask/app/User.php
+> git show :LaravelTask/app/Empolyee.php
+> git show :LaravelTask/app/Http/Controllers/Auth/RegisterController.php
+> git show :LaravelTask/app/Http/Controllers/HomeController.php
+> git show :LaravelTask/app/Http/Controllers/Auth/RegisterController.php
+> git show :LaravelTask/app/Http/Controllers/HomeController.php
+> git show :LaravelTask/database/seeds/UserTableSeeder.php
+> git show :LaravelTask/database/migrations/2018_04_18_035936_create_role_user_table.php
+> git show :LaravelTask/database/migrations/2018_04_18_032456_create_roles_table.php
+> git show :LaravelTask/database/migrations/2018_04_16_082448_create_employee_table.php
+> git show :LaravelTask/database/migrations/2014_10_12_100000_create_password_resets_table.php
+> git show :LaravelTask/database/migrations/2014_10_12_000000_create_users_table.php
+> git show :LaravelTask/app/Http/Controllers/Auth/LoginController.php
+> git show :LaravelTask/resources/views/User3ady.blade.php
+> git show :LaravelTask/app/Http/Controllers/Auth/LoginController.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/app/Http/Controllers/Auth/LoginController.php
+> git show :LaravelTask/database/seeds/DatabaseSeeder.php
+> git show :LaravelTask/app/Http/Controllers/Auth/LoginController.php
+> git show :LaravelTask/database/seeds/RoleTableSeeder.php
+> git show :LaravelTask/database/seeds/UserTableSeeder.php
+> git show :LaravelTask/database/seeds/RoleTableSeeder.php
+> git show :LaravelTask/database/seeds/UserTableSeeder.php
+> git show :LaravelTask/app/Http/Controllers/HomeController.php
+> git show :LaravelTask/app/Http/Controllers/Auth/LoginController.php
+> git show :LaravelTask/app/User.php
+> git show :LaravelTask/routes/web.php
+> git show :LaravelTask/resources/views/User3ady.blade.php
+> git show :LaravelTask/routes/web.php
+> git show :LaravelTask/resources/views/User3ady.blade.php
+> git show :LaravelTask/app/Http/Controllers/Auth/LoginController.php
+> git show :LaravelTask/app/Http/Controllers/HomeController.php
+> git show :LaravelTask/resources/views/layouts/app.blade.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/routes/api.php
+> git show :LaravelTask/resources/views/layouts/app.blade.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/resources/views/searchResult.blade.php
+> git show :LaravelTask/resources/views/layouts/app.blade.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/resources/views/layouts/app.blade.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/routes/web.php
+> git show :LaravelTask/routes/channels.php
+> git show :LaravelTask/routes/api.php
+> git show :LaravelTask/app/Http/Controllers/API.php
+> git show :LaravelTask/resources/views/layouts/app.blade.php
+> git show :LaravelTask/resources/views/map.blade.php
+> git check-ignore -z --stdin
+> git show :LaravelTask/routes/web.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/resources/views/map.blade.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/database/migrations/2018_04_16_082448_create_employee_table.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/routes/web.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/resources/views/map.blade.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/resources/views/map.blade.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/database/migrations/2018_04_16_082448_create_employee_table.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/database/migrations/2018_04_16_082448_create_employee_table.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/routes/web.php
+> git show :LaravelTask/resources/views/layouts/create.blade.php
+> git show :LaravelTask/app/Http/Controllers/EmpolyeeController.php

@@ -1,0 +1,38 @@
+[2018-04-16 09:50:28.598] [exthost1] [info] extension host started
+[2018-04-16 09:50:28.619] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-04-16 09:50:28.619] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-04-16 09:50:29.388] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-04-16 09:50:29.388] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-04-16 09:50:29.849] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-04-16 09:50:29.849] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-04-16 09:50:29.912] [exthost1] [info] ExtensionService#_doActivateExtension Sophisticode.php-formatter {"startup":true,"activationEvent":"*"}
+[2018-04-16 09:50:29.912] [exthost1] [info] ExtensionService#loadCommonJSModule /home/esraa/.vscode/extensions/Sophisticode.php-formatter-0.2.4/out/extension
+[2018-04-16 09:50:30.020] [exthost1] [info] eager extensions activated
+[2018-04-16 09:50:47.204] [exthost1] [info] ExtensionService#_doActivateExtension vscode.php {"startup":false,"activationEvent":"onLanguage:php"}
+[2018-04-16 09:50:47.204] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/php/out/phpMain
+[2018-04-16 09:50:50.811] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-04-16 09:50:50.811] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/out/extension
+[2018-04-16 09:50:50.979] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-04-16 09:50:50.979] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json/client/out/jsonMain
+[2018-04-16 09:56:42.919] [exthost1] [info] extension host started
+[2018-04-16 09:56:42.969] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-04-16 09:56:42.969] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-04-16 09:56:43.024] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-04-16 09:56:43.024] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-04-16 09:56:43.131] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-04-16 09:56:43.131] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-04-16 09:56:43.144] [exthost1] [info] ExtensionService#_doActivateExtension Sophisticode.php-formatter {"startup":true,"activationEvent":"*"}
+[2018-04-16 09:56:43.144] [exthost1] [info] ExtensionService#loadCommonJSModule /home/esraa/.vscode/extensions/Sophisticode.php-formatter-0.2.4/out/extension
+[2018-04-16 09:56:43.151] [exthost1] [info] eager extensions activated
+[2018-04-16 09:57:00.867] [exthost1] [info] extension host started
+[2018-04-16 09:57:00.902] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-04-16 09:57:00.902] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-04-16 09:57:00.979] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-04-16 09:57:00.979] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-04-16 09:57:01.149] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-04-16 09:57:01.149] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-04-16 09:57:01.173] [exthost1] [info] ExtensionService#_doActivateExtension Sophisticode.php-formatter {"startup":true,"activationEvent":"*"}
+[2018-04-16 09:57:01.173] [exthost1] [info] ExtensionService#loadCommonJSModule /home/esraa/.vscode/extensions/Sophisticode.php-formatter-0.2.4/out/extension
+[2018-04-16 09:57:01.185] [exthost1] [info] eager extensions activated
+[2018-04-16 09:57:01.188] [exthost1] [info] ExtensionService#_doActivateExtension vscode.php {"startup":false,"activationEvent":"onLanguage:php"}
+[2018-04-16 09:57:01.188] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/php/out/phpMain
